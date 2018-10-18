@@ -2,6 +2,7 @@
 
 Yet another dumb xor packer.
 
-TODO : implement anti debugging on the uncypher payload.
-       
+TODO : 
+
+       implement anti debugging on the uncypher payload.
        make it works with PIE program.
